@@ -15,13 +15,13 @@ Subject to changes.
 | Feb 11 | Basic Analysis |
 | Feb 18 | Competition |
 | Feb 25 | Spring Break |
-|March 3 | Spring Break |
-| March 10 | Intro to sentiment analysis |
-| March 17 | Model Designing and training |
-| March 24 | Model Improvement |
-| March 31 | Model Improvement |
+| March 3 | Spring Break |
+| March 10 | Intro to Sentiment Snalysis |
+| March 17 | Model Designing and Training |
+| March 24 | Model Training |
+| March 31 | Model Improvement and Comparison|
 | April 7 | Final Wrap up |
-| April 14 | Final Showcase
+| April 14 | Project Expo
 
 ## Technologies
 
@@ -34,21 +34,27 @@ working environment among the team and encourage collaboration, we will write ou
 
 In the [data](./data) folder there are four web-scraped csv files, cleaned and processed ready to go. (by Casper Guo). We will be using the cleaned version of them.
 
-## Part I - Data Analysis (Feb4 - Feb18)
+## Part I - Data Analysis
+
+Feb4 - Feb18
 
 Icebreakers, team assignment. Pandas dataframes, Matplotlib and Seaborn plotting libraries. Basic Python EDA. Competition
 
 ## Part II - Sentiment Analysis
 
+March 10 - March 31
+
 Rule-based approach, machine learning approach. NLTK, custom model, model comparison.
 
 ## Final Demo
+
+April 7 - April 14
 
 Project Expo presentation with streamlit, report paper, slides, or webapp.
 
 ## Working with this Repo
 
-We will communicate our weekly goals through this repository. It will include starter codes, guides, and presentation slides. It will also include the team's solution codes and progress. To add to the repository, fork it and send a pull request.
+We will communicate our weekly goals through this repository. It will be updated before every work session including starter codes, guides, and presentation slides. It will also include the team's solution codes and progress. To add to the repository, fork it and send a pull request.
 
 ## Interesting NLP Concepts
 
