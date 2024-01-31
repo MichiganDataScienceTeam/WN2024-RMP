@@ -1,8 +1,6 @@
 pre/
 pre2/
 
-autoload -U colors && colors
-
 # Byte-compiled / optimized / DLL files
 
 __pycache__/
