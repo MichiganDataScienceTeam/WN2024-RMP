@@ -24,8 +24,9 @@ Subject to changes.
 
 ## Technologies
 
-We will be using Python and libraries such as pandas, matplotlib, and scikit-learn. To ensure a consistent
-working environment among the team and encourage collaboration, we will write our code on Google Colab. See setup [here](./guide/colab.md)
+We will be using Python and libraries such as pandas, matplotlib, and scikit-learn.
+We encourage both Google Colab and cloning this repo to your local environment. 
+For Colab, see setup [here](./guide/colab.md)
 
 (If you have your workspace setted up in a different environment ready to go, you are welcomed to use that. However, please note we are trying to spend the minimum time in setup stage, so if issues continue to arise, please use google colab)
 
