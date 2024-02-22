@@ -11,21 +11,21 @@
 Subject to changes.
 | Date | Activity |
 |-----------|------------------------------|
-| Feb 11 | Introduction + EDA  📈 |
+| Feb 11 | Introduction + EDA 📈 |
 | Feb 18 | Competition + Intro to Sentiment Analysis 📊|
-| Feb 25 | Spring Break  🏝️  |
-| March 3 | Spring Break  🏝️|
-| March 10 | Deep Dive Sentiment Analysis  🔍 |
+| Feb 25 | Spring Break 🏝️ |
+| March 3 | Spring Break 🏝️|
+| March 10 | Deep Dive Sentiment Analysis 🔍 |
 | March 17 | Model Designing ⚙️|
 | March 24 | Model Training ⬆️|
-| March 31 | Model Improvement and Comparison  🔧|
-| April 7 | Final Wrap up  📄|
+| March 31 | Model Improvement and Comparison 🔧|
+| April 7 | Final Wrap up 📄|
 | April 14 | Project Expo 🎉 |
 
 ## Technologies
 
 We will be using Python and libraries such as pandas, matplotlib, and scikit-learn.
-We encourage both Google Colab and cloning this repo to your local environment. 
+We encourage both Google Colab and cloning this repo to your local environment.
 For Colab, see setup [here](./guide/colab.md)
 
 (If you have your workspace setted up in a different environment ready to go, you are welcomed to use that. However, please note we are trying to spend the minimum time in setup stage, so if issues continue to arise, please use google colab)
