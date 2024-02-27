@@ -5,3 +5,5 @@ notebook==6.5.6
 seaborn>=0.11.0
 scikit-learn>=1.2.0
 transfomers==4.38.1
+requests==2.31.0
+python-dotenv==1.0.1
