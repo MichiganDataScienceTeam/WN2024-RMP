@@ -22,6 +22,10 @@ Subject to changes.
 | April 7 | Final Wrap up 📄|
 | April 14 | Project Expo 🎉 |
 
+## Presentation Slides
+
+[Google Drive](https://drive.google.com/drive/folders/1ZfKETbjPLHqxyFa9Zr-ccVE8W_OUVu6z?usp=sharing)
+
 ## Technologies
 
 We will be using Python and libraries such as pandas, matplotlib, and scikit-learn.
