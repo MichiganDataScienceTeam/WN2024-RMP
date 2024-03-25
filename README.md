@@ -15,10 +15,10 @@ Subject to changes.
 | Feb 18 | Competition + Intro to Sentiment Analysis 📊|
 | Feb 25 | Spring Break 🏝️ |
 | March 3 | Spring Break 🏝️|
-| March 10 | Deep Dive Sentiment Analysis 🔍 |
-| March 17 | Model Designing ⚙️|
-| March 24 | Model Training ⬆️|
-| March 31 | Model Improvement and Comparison 🔧|
+| March 10 | Sentiment Analysis 🔍 |
+| March 17 | Hugging Face Pipline & Web API ⚙️|
+| March 24 | Running Mass Data Inference |
+| March 31 | Building Demo App 🔧|
 | April 7 | Final Wrap up 📄|
 | April 14 | Project Expo 🎉 |
 
